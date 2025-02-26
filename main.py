@@ -1,5 +1,5 @@
-def HelloWorld():
-    str = 'Hello World'
-    return str
 
-print(HelloWorld)
+
+for i in range (10):
+    i+= 1
+    print(i)
